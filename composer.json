@@ -27,12 +27,13 @@
       "akrabat/rka-content-type-renderer": "^0.7.3",
       "vlucas/phpdotenv": "^2.4",
       "adbario/php-dot-notation": "^2.0",
-      "zendframework/zend-permissions-acl": "^2.6"
+      "zendframework/zend-permissions-acl": "^2.6",
+    "php-di/php-di": "^6.4"
   },
   "require-dev": {
     "phpunit/phpunit": "^6.0",
     "propel/propel": "~2.0@dev",
-    "slim/slim": "3.*"
+    "slim/slim": "4.*"
   },
   "conflict": {
     "wollanup/php-api-rest-swagger": "<0.1.6"
